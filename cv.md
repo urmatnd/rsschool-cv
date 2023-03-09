@@ -10,7 +10,7 @@ Bishkek, Kyrgyztan
 
 I'm interested in Web Devolopment and design. I want to become a Front-end Devoloper.
 
-# # # HTML5, CSS3, Git
+### HTML5, CSS3, Git
 
 ```
 a { text-decoration: none; }
