@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://urmatnd.github.io/rsschool-cv/cv
+https://urmatnd.github.io/rsschool-cv/
